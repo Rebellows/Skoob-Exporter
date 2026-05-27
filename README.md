@@ -29,8 +29,8 @@ python -m playwright install chromium
 O script precisa dos seus cookies de sessão para acessar sua estante. Nenhuma senha é armazenada.
 
 1. Instale uma extensão de exportação de cookies no seu navegador — qualquer uma das opções abaixo funciona:
-   - **EditThisCookie** (Chrome): https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
-   - **Cookie-Editor** (Chrome/Edge/Firefox): https://cookie-editor.com
+   - **EditThisCookie**: https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+   - **Cookie-Editor**: https://cookie-editor.com
 2. Faça login no Skoob normalmente
 3. Navegue até a sua estante
 4. Abra a extensão → clique em **Export** (EditThisCookie) ou **Export → Export as JSON** (Cookie-Editor)
