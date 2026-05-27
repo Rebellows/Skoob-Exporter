@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 
-BASE_URL = "https://www.skoob.com.br/pt/user/67bd1c7a70c4abc337e3c207/bookshelf"
+BASE_URL = "https://www.skoob.com.br/pt/user/SEU_ID_AQUI/bookshelf"
 COOKIES_FILE = "skoob_cookies.json"
 
 async def scrape_page(page, url):
